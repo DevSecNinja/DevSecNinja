@@ -1,4 +1,4 @@
-### C:\> Whoami
+### C:\\> Whoami
 
 Hi there! 👋 My name is Jean-Paul van Ravensberg and I am a Cloud Solution Architect at Microsoft 💻. I specialize in Application Innovation, Infrastructure, and Security 🛡️. I am from the Netherlands 🇳🇱 and currently work for the Tech for Social Impact team, helping non-profit organizations all around the world 🌍. In my spare time, I am also a grad student studying Computer Science at Georgia Tech 🎓.
 
