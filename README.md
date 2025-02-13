@@ -2,8 +2,6 @@
 
 Security-focused Technical Specialist at Microsoft with a passion for empowering organizations through secure digital transformation. When I'm not working on enterprise security solutions, you'll find me tinkering with my home lab or finding new creative ideas to automate my home.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://linkedin.com/in/jvravensberg)
-
 ### 💼 Professional Journey
 
 - 🛡️ Technical Specialist @ Microsoft - Focusing on Microsoft 365 Defender & Purview (E5 Security & Compliance)
