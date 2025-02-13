@@ -1,7 +1,22 @@
-### C:\\> Whoami
+### 👋 Hi, I'm Jean-Paul!
 
-Hi there! 👋 My name is Jean-Paul van Ravensberg and I am a Cloud Solution Architect at Microsoft 💻. I specialize in Application Innovation, Infrastructure, and Security 🛡️. I am from the Netherlands 🇳🇱 and currently work for the Tech for Social Impact team, helping non-profit organizations all around the world 🌍. In my spare time, I am also a grad student studying Computer Science at Georgia Tech 🎓.
+Security-focused Technical Specialist at Microsoft with a passion for empowering organizations through secure digital transformation. When I'm not working on enterprise security solutions, you'll find me tinkering with my home lab or finding new creative ideas to automate my home.
 
-I am passionate about using technology to make a positive impact in the world 🌏. Whether it is helping organizations streamline their operations or providing secure solutions for their data, I am always looking for ways to make a difference.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://linkedin.com/in/jvravensberg)
 
-Feel free to check out my repositories and projects on GitHub! I am always open to collaboration and learning new things 🤓.
+### 💼 Professional Journey
+
+- 🛡️ Technical Specialist @ Microsoft - Focusing on Microsoft 365 Defender & Purview (E5 Security & Compliance)
+- 🤝 10+ years of experience in technical consultancy, architecture and DevOps
+- 🎓 Master's in Computer Science from Georgia Tech
+- 📜 Certified: CISSP, CCSP, TOGAF, Azure (various)
+
+### 🌟 Current Focus
+
+- 🔒 Enhancing cybersecurity practices in enterprise environments for non-profits
+- 🏢 Supporting non-profit organizations with technical expertise
+- 🔧 Building and maintaining a sophisticated home lab
+
+### 🏗️ Projects
+
+I maintain several small open-source security tools and automation scripts. Feel free to open an issue or Pull Request if you need some help!
